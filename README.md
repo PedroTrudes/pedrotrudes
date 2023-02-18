@@ -2,8 +2,6 @@
 
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-<img align="center" alt="Banner de apresentação DevTrudes" heigth="auto" width="100%" src="[https://files.fm/f/evke4cttv](https://files.fm/filebrowser#/pedro%20joaquim.png;/view/evke4cttv)" />
-
 
 <div align="center">
   <a href="https://github.com/pedrotrudes">
