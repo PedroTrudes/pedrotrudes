@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer" transform="rotate(80deg)"/>
+
 <p align="center">Eu ❤️ resolvo grandes desafios usando tecnologia.<br><br> Do desenvolvimento frontend usando ReactJS ao, desenvolvimento backend usando NodeJs, sou apaixonado por descobrir coisas novas e usá-las para criar soluções de alta qualidade. <br><br><strong>Hoje, sou um desenvolvedor full stack de nível Pleno focado em desenvolvimento web.</p>&nbsp;
 
 
@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador DevTrudes">
 
 #### Secondary Stack:
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
