@@ -1,6 +1,6 @@
 
 <p align="center"> Eu ❤️ resolvo grandes desafios usando tecnologia.<br><br>
-  Do desenvolvimento frontend com <strong>ReactJS</strong> ou mobile com <strong>React Native</strong>, ao backend com <strong>Node.js</strong> ou <strong>Laravel</strong> para criação de APIs — sou apaixonado por descobrir novas ferramentas e aplicá-las em soluções de alta qualidade.<br><br>
+  Do desenvolvimento frontend com <strong>ReactJS | Angular</strong>, ao backend com <strong>Node.js</strong> ou <strong>Laravel</strong> para criação de APIs — sou apaixonado por descobrir novas ferramentas e aplicá-las em soluções de alta qualidade.<br><br>
   <strong>Hoje, sou um desenvolvedor Full Stack Pleno</strong>, com foco em criar interfaces animadas e envolventes que geram prazer e fluidez para o usuário.</p>&nbsp;
 
 
