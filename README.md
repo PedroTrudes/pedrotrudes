@@ -1,7 +1,9 @@
 
-<p align="center"> Eu ❤️ resolvo grandes desafios usando tecnologia.<br><br>
-  Do desenvolvimento frontend com <strong>ReactJS | Angular</strong>, ao backend com <strong>Node.js</strong> ou <strong>Laravel</strong> para criação de APIs — sou apaixonado por descobrir novas ferramentas e aplicá-las em soluções de alta qualidade.<br><br>
-  <strong>Hoje, sou um desenvolvedor Full Stack Pleno</strong>, com foco em criar interfaces animadas e envolventes que geram prazer e fluidez para o usuário.</p>&nbsp;
+<p>Engenheiro de Software Full Stack focado em desenvolvimento de aplicações web escaláveis e bem estruturadas.<br><br>
+
+Atuo no desenvolvimento de frontends modernos com Angular e React, além da construção de APIs robustas utilizando Spring Boot e Node.js, aplicando boas práticas de arquitetura e testes automatizados com TDD e JUnit.<br>
+
+Tenho experiência trabalhando com Docker, AWS, PostgreSQL, MySQL e MongoDB, além de ferramentas de UI como Material UI, SCSS, Bootstrap e Framer Motion para criação de interfaces modernas e performáticas.</p>&nbsp;
 
 
 
