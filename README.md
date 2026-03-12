@@ -1,9 +1,126 @@
 
-<p>Engenheiro de Software Full Stack focado em desenvolvimento de aplicações web escaláveis e bem estruturadas.<br><br>
+<h1>Pedro Joaquim Trudes Martins</h1>
+<h3>
+Desenvolvedor Full Stack (Java | Spring Boot | NodeJS | Angular | React)  
+</h3>
+<p>
+📍 Taboão da Serra - SP<br>
+📧 pedro.jtrudes@gmail.com<br>
+📱 (11) 99656-6494 <br>
 
-Atuo no desenvolvimento de frontends modernos com Angular e React, além da construção de APIs robustas utilizando Spring Boot e Node.js, aplicando boas práticas de arquitetura e testes automatizados com TDD e JUnit.<br>
+---
 
-Tenho experiência trabalhando com Docker, AWS, PostgreSQL, MySQL e MongoDB, além de ferramentas de UI como Material UI, SCSS, Bootstrap e Framer Motion para criação de interfaces modernas e performáticas.</p>&nbsp;
+## Objetivo
+
+Atuar como **Desenvolvedor Full Stack**, com foco em desenvolvimento de **APIs REST com Java/Spring Boot** e **interfaces modernas com Angular ou React**, contribuindo para a criação de produtos escaláveis e experiências digitais de alta qualidade.
+
+---
+
+## Resumo Profissional
+
+Desenvolvedor Full Stack com experiência em desenvolvimento de **interfaces modernas e APIs REST**, atuando tanto no frontend quanto no backend.
+
+Experiência na criação de **landing pages, aplicações web e sistemas internos**, utilizando tecnologias como **Angular, React, Node.js, Spring Boot e Docker**.
+
+Possui forte colaboração com times de **UI/UX**, participando da implementação de experiências digitais para grandes marcas como **Samsung LATAM**.
+
+---
+
+## Experiência Profissional
+
+**Cheil Brasil**
+Freelancer — Jun 2023 / Jan 2026
+
+Atuação no desenvolvimento e manutenção de páginas para **Samsung LATAM**, colaborando diretamente com times de UI e marketing.
+
+Principais atividades:
+
+* Desenvolvimento de **landing pages e páginas institucionais**
+* Manutenção e evolução de páginas existentes
+* Implementação de interfaces responsivas
+* Integração com CMS corporativo
+
+Tecnologias utilizadas:
+AEM • HTML • CSS • Figma • Jira
+
+---
+
+**Almeida Engenharia**
+Desenvolvedor Full Stack — Dez 2022 / Jun 2023
+
+Desenvolvimento de um **sistema de gestão de orçamentos e obras** para equipe de engenharia.
+
+Principais atividades:
+
+* Desenvolvimento de interface administrativa
+* Controle de pagamentos e acompanhamento de obras
+* Criação de funcionalidades de gestão financeira
+
+Tecnologias utilizadas:
+Angular • Node.js • Docker • SCSS • Figma
+
+---
+
+**2BTrust**
+Desenvolvedor Full Stack — Fev 2022 / Jun 2022
+
+Participação no desenvolvimento de uma **plataforma de investimentos** e manutenção do site institucional.
+
+Principais atividades:
+
+* Desenvolvimento de componentes frontend
+* Integração com APIs backend
+* Evolução do site institucional
+
+Tecnologias utilizadas:
+React.js • Node.js • Styled Components • Figma
+
+---
+
+## Formação
+
+**Análise e Desenvolvimento de Sistemas**
+FECAF — Conclusão: 2022
+
+---
+
+## Cursos Complementares
+
+2025 — Desenvolvimento com Angular, React, React Native, Node.js e TypeScript (Rocketseat)
+
+2024 — Formação em Desenvolvimento de Sistemas (Alura)
+
+2023 — Java com Spring Boot e ReactJS (Generation Brasil)
+
+2021 — Análise e Desenvolvimento de Sistemas (ETEC Centro Paula Souza)
+
+---
+
+## Habilidades Técnicas
+
+**Back-end**
+Java • Spring Boot • Node.js • Express • REST APIs
+
+**Front-end**
+Angular • React.js • TypeScript
+
+**Estilização**
+SCSS • Material UI • Bootstrap • Styled Components • Framer Motion
+
+**Banco de Dados**
+MongoDB • SQL
+
+**Testes**
+JUnit
+
+**Ferramentas**
+Git • Docker • Jira • Trello
+
+**Design**
+Figma
+
+
+</p>&nbsp;
 
 
 
