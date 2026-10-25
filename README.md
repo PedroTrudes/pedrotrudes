@@ -1,7 +1,7 @@
 
 <h1>Pedro Joaquim Trudes Martins</h1>
 <h3>
-Desenvolvedor Full Stack (Java | Spring Boot | NodeJS | Angular | React)  
+Desenvolvedor Full Stack ( NodeJS | NestJS | TypeScript | NoSQL | MySQL | Microsserviços | React | React Native )  
 </h3>
 <p>
 📍 Taboão da Serra - SP<br>
@@ -12,7 +12,7 @@ Desenvolvedor Full Stack (Java | Spring Boot | NodeJS | Angular | React)
 
 ## Objetivo
 
-Atuar como **Desenvolvedor Full Stack**, com foco em desenvolvimento de **APIs REST com Java/Spring Boot** e **interfaces modernas com Angular ou React**, contribuindo para a criação de produtos escaláveis e experiências digitais de alta qualidade.
+Atuar como **Desenvolvedor Full Stack**, com foco em desenvolvimento de **APIs REST com NodeJS - Express ou NestJS/TS** e **interfaces modernas com React e mobile com React Native**, contribuindo para a criação de produtos escaláveis e experiências digitais de alta qualidade.
 
 ---
 
@@ -20,7 +20,7 @@ Atuar como **Desenvolvedor Full Stack**, com foco em desenvolvimento de **APIs R
 
 Desenvolvedor Full Stack com experiência em desenvolvimento de **interfaces modernas e APIs REST**, atuando tanto no frontend quanto no backend.
 
-Experiência na criação de **landing pages, aplicações web e sistemas internos**, utilizando tecnologias como **Angular, React, Node.js, Spring Boot e Docker**.
+Experiência na criação de **landing pages, aplicações web e sistemas internos**, utilizando tecnologias como **React, Node.js, NestJS, Docker, Testes Unitarios, E2E, Integração.**.
 
 Possui forte colaboração com times de **UI/UX**, participando da implementação de experiências digitais para grandes marcas como **Samsung LATAM**.
 
@@ -36,12 +36,13 @@ Atuação no desenvolvimento e manutenção de páginas para **Samsung LATAM**, 
 Principais atividades:
 
 * Desenvolvimento de **landing pages e páginas institucionais**
+* React para criação de novos componentes
 * Manutenção e evolução de páginas existentes
 * Implementação de interfaces responsivas
 * Integração com CMS corporativo
 
 Tecnologias utilizadas:
-AEM • HTML • CSS • Figma • Jira
+AEM • React • HTML • CSS • Figma • Jira
 
 ---
 
@@ -57,7 +58,7 @@ Principais atividades:
 * Criação de funcionalidades de gestão financeira
 
 Tecnologias utilizadas:
-Angular • Node.js • Docker • SCSS • Figma
+React.js/ts • Node.js • Docker • SCSS • Figma
 
 ---
 
@@ -99,22 +100,22 @@ FECAF — Conclusão: 2022
 ## Habilidades Técnicas
 
 **Back-end**
-Java • Spring Boot • Node.js • Express • REST APIs
+JavaScript • TypeScript • Node.js • Express • NestJS • REST APIs • Docker.
 
 **Front-end**
-Angular • React.js • TypeScript
+React.js • React Native • TypeScript.
 
 **Estilização**
-SCSS • Material UI • Bootstrap • Styled Components • Framer Motion
+SCSS • Material UI • Bootstrap • Styled Components • Framer Motion.
 
 **Banco de Dados**
-MongoDB • SQL
+MongoDB • SQL • NoSQL • Postgres • MySQL.
 
 **Testes**
-JUnit
+JUnit • Testes E2E • Testes Unitarios • Testes de Integração.
 
 **Ferramentas**
-Git • Docker • Jira • Trello
+Git • Docker • Jira • Trello.
 
 **Design**
 Figma
